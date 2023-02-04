@@ -8,4 +8,4 @@
 
 3) Whitelisted users, should have a 5 min presale period before the actual sale where they are guaranteed 1 NFT per transaction.
 
-4) There should be a website for your NFT Collection
+4) Website for your NFT Collection
